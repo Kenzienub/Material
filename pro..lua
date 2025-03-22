@@ -41,7 +41,7 @@ function MaterialMon(SelectMaterial)
             _G.MPos = CFrame.new(-11975.78515625, 331.7734069824219, -10620.0302734375)
             _G.SP = "Default"
         end
-    elseif SelectMaterial == "Leather + Scrap Metal" then
+    elseif SelectMaterial == "Scrap Metal" then
         if First_Sea then
             _G.MMon = "Brute"
             _G.MPos = CFrame.new(-1145,15,4350)
